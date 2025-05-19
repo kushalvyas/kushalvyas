@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kushal👋
 
 <!--
 **kushalvyas/kushalvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a AI researcher and PhD student at Rice University working on scalable machine learning methods for large signals. 
+
+Previously, I was a senior ML researcher at Samsung Research America (SRA), Mountain View, CA where I was part of the wonderful multidisciplinary Think Tank Team
+
+## Research interests:
+- Neural Representations
+- Large-scale solvers, scalable machine learning
+- Representation learning
+- Domain Specific Languages(DSL) and compilers
+
+I program in Python, C++, and sometimes typescript. 
