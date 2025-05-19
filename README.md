@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a AI researcher and PhD student at Rice University working on scalable machine learning methods for large signals. 
+I'm a AI researcher and PhD student at Rice University working on scalable machine learning methods for large signals. I recently developed a PyTorch library for implicit neural representations named Alpine
 
 Previously, I was a senior ML researcher at Samsung Research America (SRA), Mountain View, CA where I was part of the wonderful multidisciplinary Think Tank Team. 
 Before that, I completed my was pursing my masters at the Robotics Institute at Carngie Mellon University studying Computer Vision (MSCV).
